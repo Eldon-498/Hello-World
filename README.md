@@ -1,3 +1,3 @@
 # Hello-World
 My first repository
-Am eldon an intermediate programme,dont worry ill be getting better everyday
+My name is Eldon, dont worry I'll be getting better everyday.
